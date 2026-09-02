@@ -39,7 +39,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    |       |  |  | 
+| 1    |     Alta   | Como analista desejo obter dados extraídos de fontes confiáveis para possuir maiorsegurança para as |  | 
 
   
   
