@@ -6,7 +6,7 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
-*  [Tecnologias Utilizadas](#Tecnologias Utilizadas)
+*  [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
