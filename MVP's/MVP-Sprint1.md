@@ -28,16 +28,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como gestor público, desejo uma base de dados extraídos do Comex Stat, para possuir uma fonte oficial e confiavél de informações | 4 horas | 1
-| 2    | Alta       | Como gestor público, desejo dados tratados e organizados, para torná-los utilizáveis | 6 horas | 1
-| 3    | Média      | Como gestor público, desejo filtrar dados dos estados da federação, para análise estadual | 3 horas | 1
-| 4    | Média      | Como gestor público, desejo os dados de importação e exportação integrados, para entender o volume comercial | 3 horas | 1
-| 5    | Alta       | Como gestor público, desejo identificar os modais utilizados, para entender a cadeia de transporte local |  3 horas | 1
-| 6    | Alta       | Como gestor público, desejo identificar as principais unidades da Receita Federal para entender melhor o movimento logístico da região |  4 horas | 1
-| 7    | Alta       | Como gestor público, desejo identificar países parceiros, para análise inicial do comércio |  4 horas | 1
-| 8    | Alta       | Como gestor público, desejo uma base de dados sólida para gerar o dashboard| 4 horas | 1
-| 9    | Média      | Como gestor público, desejo visualizar a estrutura inicial do dashboard, para iniciar a visualização dos dados | 4 horas  | 1
-| 10   | Alta       | Como gestor público, desejo visualizar os dados comerciais do estado de São Paulo para análise logística da região |  6 horas  | 1
+| 1    |            |  || 
+
 
 ---
 
