@@ -59,8 +59,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                |  | a fazer | [MVP](MVP's/Sprint-1.md)  |
-| 02                |  | a fazer | [MVP](MVP's/Sprint-2.md)  |
-| 03                |  | a fazer | [MVP](MVP's/Sprint-3.md)  |
-| Feira de Soluções |  | a fazer | [MVP](#)  |
+| 01                | 01/10/2026 | a fazer | [MVP](MVP's/Sprint-1.md)  |
+| 02                | 29/10/2026 | a fazer | [MVP]()  |
+| 03                | 26/11/2026 | a fazer | [MVP]()  |
+| Feira de Soluções | 03/11/2026 | a fazer | [MVP]()  |
 
