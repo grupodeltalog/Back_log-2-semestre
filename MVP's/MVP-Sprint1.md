@@ -21,7 +21,7 @@
 
 ## 👥 Personas / Usuários-Alvo
 
-- O analista da Secretaria de Desenvolvimento Econômico (CADI/SIDE) necessita de uma ferramenta que permita a visualização dos dados de comércio exterior do Estado de São Paulo, como os indicadores de exportação e importação, para analisar o desempenho comercial e o fluxo logístico da região.
+-
 
 ---
 
@@ -36,42 +36,34 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade de visualização]                        | Concluído|
-| 02     | [Funcionalidade de segmentação valores FOB e valor agregado]                           | Em andamento |
+| 01     | [Funcionalidade de visualização]                        | Em andamento  |
+| 02     | [Funcionalidade]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize e compare dados de exportação, importação, unidades da Receita Federal e países parceiros comerciais.
-- O sistema deve apresentar corretamente os dados selecionados nos filtros e atualizar os gráficos e cartões do dashboard.  
-- Métricas coletadas: funcionamento dos filtros interativos, tempo de resposta do dashboard e visualização dos indicadores comerciais.
-
+- 
+- 
+- 
 ---
 
 ## 📈 Métricas de Avaliação
 | Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
 |-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
-|10%|10%|10%|10%|10%|10%|60%
-|4|4|2|2|4|4|4,8|
+||||||
+||||||||
 ---
 
 ## 🚀 Próximos Passos
-- Ajuste quantitativo 
-(Valor Kg, Valor FOB, Valor Agregado);
+-
 
- - Ajuste do dashboard no PowerBI
-(Padronização dos filtros de 2023 até o ano de 2025).
+ - 
 
 ---
 
 ## 📂 Anexos / Evidências
-- Códigos Comex Stat:
-https://drive.google.com/drive/folders/1yxLSbzKF25hjxlforyweDhW20JQZzRs-
+- 
 
-- Interface dashboard:
-https://github.com/grupodeltalog/Back_Log/tree/e86220e25dbc0f67d52f2acde393b054e27584a1/Prints%20das%20Interfaces%20do%20Dashboard  
+- 
 
-- Apresentação slide:
-  https://canva.link/0prkbmwd41vj9ip
-
-- 5W2H: https://github.com/grupodeltalog/Back_Log/blob/b5c012f7edb8063d92173819b1373012c2c2b45c/5W2H/52WH_SPRINT_1.pdf
+- 
