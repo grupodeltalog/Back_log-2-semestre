@@ -51,10 +51,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    |     Alta   | Como analista desejo obter dados extraídos de fontes confiáveis para possuir maiorsegurança para as |  | 
+| 1    |     Alta   | Como gestor público, desejo uma base de dados extraídos da PRF e DATASUS, para possuir uma fonte oficial e confiável de informações.                    |5 Horas     | 1      |
+| 2    |     Alta   | Como gestor público, desejo dados tratados e organizados, para torná-los utilizáveis.                                                                   |7 Horas     | 1      |
+| 3    |     Alta   | Como gestor público, desejo possuir uma visualização Nacional com filtros por estados, para uma analise individual.                                       |3 Horas     | 1      |
+| 4    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 5    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 6    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 7    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 8    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 9    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
 
-  
-  
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
