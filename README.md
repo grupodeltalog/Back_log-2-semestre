@@ -56,10 +56,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    |     Alta   | Como gestor público, desejo uma visualização Nacional com filtros por estados, para uma análise individual.                                             |3 Horas     | 1      |
 | 4    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
 | 5    |     Alta   | Como gestor público, desejo visualizar a ocorrência de sinistros por tipo de veículo, com foco nos acidentes envolvendo veículos pesados.               |3 Horas     | 1      |
-| 6    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
-| 7    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
-| 8    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
-| 9    |     Alta   | Como gestor público, desejo ter filtros a respeito das métricas de severidade dos sinistros, frota, idade, sexo, entre outros.                          |3 Horas     | 1      |
+| 6    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 7    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 8    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 9    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
 
 
 # Registro das Sprints
