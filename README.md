@@ -34,8 +34,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-
-
 # Tecnologias Utilizadas
  
 * Google Colab
