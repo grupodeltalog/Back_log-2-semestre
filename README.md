@@ -62,5 +62,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 01                | 01/10/2026 | a fazer | [MVP](MVP's/MVP-Sprint1.md)
 | 02                | 29/10/2026 | a fazer | [MVP]()  |
 | 03                | 26/11/2026 | a fazer | [MVP]()  |
-| Feira de Soluções | 03/11/2026 | a fazer | [MVP]()  |
+| Feira de Soluções | 03/12/2026 | a fazer | [MVP]()  |
 
