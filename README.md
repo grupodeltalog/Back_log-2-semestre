@@ -51,13 +51,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    |     Alta   | Como gestor público, desejo uma base de dados extraídos da PRF, para possuir uma fonte oficial e confiável de informações.                              |5 Horas     | 1      |
-| 2    |     Alta   | Como gestor público, desejo dados tratados e organizados, para torná-los utilizáveis e garantir precisão nas análises.                                                                   |7 Horas     | 1      |
+| 1    |     Alta   | Como gestor público, desejo uma base de dados extraídos da PRF, para possuir uma fonte oficial e confiável de informações.                              |4 Horas     | 1      |
+| 2    |     Alta   | Como gestor público, desejo dados tratados e organizados, para torná-los utilizáveis e garantir precisão nas análises.                                                                   |6 Horas     | 1      |
 | 3    |     Alta   | Como gestor público, desejo uma visualização Nacional e estadual por meio de filtros para uma análise mais refinada.                                             |3 Horas     | 1      |
 | 4    |     Alta   | Como gestor público, desejo aplicar filtros por tipo de veículo, ano do evento e gravidade do sinistro, para que eu possa isolar o comportamento de veículos pesados e identificar cenários de alto risco.    |3 Horas     | 1      |
-| 5    |     Alta   | Como gestor público, desejo visualizar indicadores que demonstrem a ocorrência de sinistros em determinados trechos das BRS, para identificar pontos de foco e possíveis falhas de infraestrutura e sinalização.  |3 Horas     | 1      |
-| 6    |     Alta   | Como gestor público, desejo visualizar gráficos comparativos entre os estados e a média nacional para análise comparativa.                                                                                                                                         |3 Horas     | 1      |
-| 7    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 5    |     Média   | Como gestor público, desejo visualizar indicadores que demonstrem a ocorrência de sinistros em determinados trechos das BRS, para identificar pontos de foco e possíveis falhas de infraestrutura e sinalização.  | 6 Horas     | 1      |
+| 6    |     Alta   | Como gestor público, desejo visualizar gráficos comparativos entre os estados e a média nacional para análise comparativa.                                                                                                                                         | 4 Horas     | 1      |
+| 7    |     Alta   | Como gestor público, desejo todas as funções citadas anteriormente integradas a um Dashboard na ferramenta Power BI para trazer uma visualização clara e interativa.    | 7 Horas     | 1      |
 | 8    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
 | 9    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
 
