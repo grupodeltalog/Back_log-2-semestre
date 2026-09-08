@@ -58,8 +58,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 5    |     Média   | Como gestor público, desejo visualizar indicadores que demonstrem a ocorrência de sinistros em determinados trechos das BRS, para identificar pontos de foco e possíveis falhas de infraestrutura e sinalização.  | 6 Horas     | 1      |
 | 6    |     Alta   | Como gestor público, desejo visualizar gráficos comparativos entre os estados e a média nacional para análise comparativa.                                                                                                                                         | 4 Horas     | 1      |
 | 7    |     Alta   | Como gestor público, desejo todas as funções citadas anteriormente integradas a um Dashboard na ferramenta Power BI para trazer uma visualização clara e interativa.    | 7 Horas     | 1      |
-| 8    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
-| 9    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 8    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
+| 9    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
+| 10    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
+| 11    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
+| 12    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
+| 13    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 14    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 15    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 16    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 17    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
 
 
 # Registro das Sprints
