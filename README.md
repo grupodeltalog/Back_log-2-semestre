@@ -58,16 +58,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 5    |     Média   | Como gestor público, desejo visualizar indicadores que demonstrem a ocorrência de sinistros em determinados trechos das BRS, para identificar pontos de foco e possíveis falhas de infraestrutura e sinalização.  | 6 Horas     | 1      |
 | 6    |     Alta   | Como gestor público, desejo visualizar gráficos comparativos entre os estados e a média nacional para análise comparativa.                                                                                                                                         | 4 Horas     | 1      |
 | 7    |     Alta   | Como gestor público, desejo todas as funções citadas anteriormente integradas a um Dashboard na ferramenta Power BI para trazer uma visualização clara e interativa.    | 7 Horas     | 1      |
-| 8    |     Alta   | Como gestor público, desejo a implementação da base e dados SIM do Departamento DATASUS, para uma análise real da letalidade das rodovias federais.   | 4 Horas     | 2      |
-| 9    |     Alta   | Como gestor público, desejo que a base de dados SIM esteja compatível com a base de dados da PRF, para evitar falsos positivos, perda de registros ou dados inutilizaveis.   |7 Horas     | 2      |
-| 10    |     Média   | Como gestor público, desejo ver o real desfecho de acidentes nas rodovias, podendo abranger os óbitos tardios para corrigir a distorção estatistica e mapear os reais fatores de risco que transformam sinistros em fatalidades. |3 Horas     | 2      |
-| 11    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
-| 12    |     Alta   |                                                                                                                                                         |3 Horas     | 2      |
-| 13    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
-| 14    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
-| 15    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
-| 16    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
-| 17    |     Alta   |                                                                                                                                                         |3 Horas     | 1      |
+| 8    |     Alta   | Como gestor público, desejo a implementação da base e dados SIM do Departamento DATASUS, para uma análise real da letalidade das rodovias federais.   | 8 Horas     | 2      |
+| 9    |     Alta   | Como gestor público, desejo que a base de dados SIM esteja compatível com a base de dados da PRF, para evitar falsos positivos, perda de registros ou dados inutilizaveis.   | 8 Horas     | 2      |
+| 10    |     Média   | Como gestor público, desejo ver o real desfecho de acidentes nas rodovias, podendo abranger os óbitos tardios para corrigir a distorção estatistica e mapear os reais fatores de risco que transformam sinistros em fatalidades. | 5 Horas     | 2      |
+| 11    |     Média   | Como gestor público, desejo cruzar os dados de acidentes com o perfil socioeconômico das vítimas do DATASUS (Idade, Sexo e Escolaridade), para que eu possa direcionar campanhas de conscientização específicas aos públicos mais afetados em cada região. | 5 Horas     | 2      |
+| 12    |     Alta   | Como gestor público, desejo observar a relação de óbitos com a Classificação Brasileira de Ocupações, para que eu possa identificar quais categorias de trabalhadores são as maiores vítimas de sinistros.  | 6 Horas     | 2      |
+| 13    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
+| 14    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
+| 15    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
+| 16    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
+| 17    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
 
 
 # Registro das Sprints
