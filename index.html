@@ -1,4 +1,4 @@
-# Código de análise 1
+### Código de análise 1 ###
 
 import pandas as pd
 
@@ -17,4 +17,27 @@ atct.info ()
 pd.set_option('display.max_columns', None)
 
 atct,head (20) - Mudem a numeração dentro dos parênteses para ver mais linhas da tabela.
+
+Fim.
+
+### Código para converter arquivos ".dbc" ###
+
+!pip install readdbc
+
+import pandas as pd
+
+import readdbc
+
+arquivo_dbc = '/content/drive/My Drive/Datas/DATASUS/DOBR2024.dbc'
+arquivo_csv = '/content/drive/MyDrive/Datas/DATASUS/DOBR2024.csv'
+
+print("Convertendo... Aguarde um momento, pois a base do Brasil é grande.")   /
+readdbc.dbc2csv(arquivo_dbc, arquivo_csv)                                     /  > mesma linha
+                                                                              /
+print("Conversão concluída com sucesso! Arquivo CSV gerado.")                 / 
+
+Fim.
+
+### Código de análise 2 ###
+
 
