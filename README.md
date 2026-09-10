@@ -66,8 +66,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 13    |     Alta   | Como gestor público, desejo a implementação da base de dados populacional do IBGE e de frotas da SENATRAN, para que o histórico de habitantes e veículos fique disponível para análise e cruzamento de dados.    | 6 Horas     | 3      |
 | 14    |     Alta   | Como um gestor público, desejo observar os indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos, Para que eu possa avaliar de forma justa o perigo real desse segmento, sem que o tamanho da população ou frota mascare os índices de risco. | 6 Horas  | 3      |
 | 15    |     Alta   | Como gestor público, desejo a implementação de um filtro interativo por regiões do país (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) no painel, para que eu consiga segmentar e analisar o comportamento dos dados de forma geográfica e direcionada.  |4 Horas     | 3      |
-| 16    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
-| 17    |     Alta   |                                                                                                                                                         |3 Horas     | 3      |
+| 16    |     Média  | Como gestor público, desejo a implementação de painéis de rankings comparativos baseados em múltiplos critérios de severidade e exposição ao risco, para que eu consiga identificar e classificar com rapidez quais localidades, frotas, entre outros apresentam os cenários mais críticos. |3 Horas     | 3      |
+| 17    |     Alta   | Como gestor público, desejo a homologação e a entrega da versão final do painel com 100% das bases de dados totalmente integradas e validadas, para que eu possa acessar uma plataforma única e consolidada com todas as informações de segurança viária citadas anteriormente. |8 Horas  | 3      |
 
 
 # Registro das Sprints
