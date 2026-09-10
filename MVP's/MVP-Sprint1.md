@@ -47,11 +47,7 @@
 ---
 
 ## 🚀 Próximos Passos
-1.	Corrigir a padronização dos filtros temporais referentes ao ciclo 2023–2025 no Power BI.
-2.	Implementar as métricas de valor FOB ($) e valor em kg para enriquecer a análise de valor agregado.
-3.	Validar a acurácia das somatórias com a base de dados oficial de comércio exterior (Comex Stat).
-4.	Preparar o ambiente de homologação para o Review do MVP com os stakeholders.
----
+
 
 ## 📂 Anexos / Evidências
 - 
