@@ -18,7 +18,9 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- Gestor Público de Trânsito/ONSV objetivo Identificar trechos de rodovias (BRs) com alta sinistralidade para direcionar obras de manutenção e reforço de sinalização.
+-OBSERVATÓRIO Nacional de Segurança Viária(ONSV) 
+-Objetivo Identificar trechos de rodovias (BRs) com alta sinistralidade para direcionar obras de manutenção e reforço de sinalização.
+-Dimensionar a quantidade de acidentes graves e Mapear rotas rodoviárias de alto risco 
 
 
 ---
@@ -47,7 +49,7 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 
 ## 📊 Critérios de Aceitação
 Acurácia e Confiabilidade dos Dados: 100% dos registros importados da PRF devem passar pela limpeza de dados (remoção de duplicatas, tratamento de campos nulos e padronização de tipos de veículos).
-Desempenho da Ferramenta: As interações no Power BI (filtros de UF, ano e tipo de veículo) devem responder em menos de 2 segundos.
+Desempenho da Ferramenta: As interações no Power BI (filtros de UF, ano e tipo de veículo) devem responder.
 Filtro de Veículos Pesados: O dashboard deve permitir o isolamento claro das ocorrências envolvendo caminhões, carretas e tratores.
 Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo alternar facilmente entre a visão macro (Nacional) e micro (Trechos de BRs e Municípios).
 
