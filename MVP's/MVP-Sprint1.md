@@ -40,8 +40,8 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Modelagem da base de dados, criação dos cartões de KPI gerais (Importação/Exportação) e visualização preliminar por URF.                       | Em andamento  |
-| 02     | Implementação dos gráficos por modal de transporte, e refinamento dos filtros interativos.                        | planejada|
+| 01     | Extração e tratamento da base da PRF; Modelagem dimensional no Power BI; Criação dos cartões de KPI gerais de sinistros/gravidade e visualização inicial por UF/BR.                   | Em andamento  |
+| 02     | Implementação de gráficos por tipo de veículo/modal de carga; Análise comparativa (Média Nacional x Estadual); Refinamento de filtros interativos, menu de navegação e testes de usabilidade. | planejada|
 
 ---
 
