@@ -1,14 +1,25 @@
 # 📌 MVP - [API 1 Logística]
 
 ## 🎯 Objetivo do MVP
+Desenvolver uma solução analítica interativa em Power BI fundamentada em dados abertos da Polícia Rodoviária Federal (PRF). O objetivo principal é subsidiar a tomada de decisão no setor público e logístico, permitindo a identificação de trechos críticos (blackspots) em rodovias federais (BRs), a análise comportamental de veículos pesados de carga e a avaliação do impacto da gravidade dos sinistros na infraestrutura e fluidez logística do país.
 
 ---
 
 ## 📝 Descrição da Solução
+A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelligence) que realiza a extração, tratamento e modelagem dos dados brutos de acidentes da PRF. Os dados processados alimentam um dashboard interativo estruturado com as seguintes camadas:
+
+-Camada de Visão Geral: Métricas consolidadas (KPIs) de ocorrências, vítimas, severidade e distribuição geográfica por Unidade Federativa (UF).
+
+-Camada de Análise Setorial/Logística: Filtros dinâmicos voltados à frota pesada (caminhões, carretas, reboques) para isolar o impacto do transporte de cargas na segurança viária.
+
+-Camada de Tendências: Gráficos comparativos entre o desempenho de estados específicos versus a média nacional, facilitando o diagnóstico preventivo e a alocação de recursos em infraestrutura e sinalização.
+
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
+- Gestor Público de Trânsito/ONSV objetivo Identificar trechos de rodovias (BRs) com alta sinistralidade para direcionar obras de manutenção e reforço de sinalização.
+
 
 ---
 
@@ -30,11 +41,15 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Modelagem da base de dados, criação dos cartões de KPI gerais (Importação/Exportação) e visualização preliminar por URF.                       | Em andamento  |
-| 02     | Implementação dos gráficos por modal de transporte, parceiros comerciais e refinamento dos filtros interativos.                        | planejada|
+| 02     | Implementação dos gráficos por modal de transporte, e refinamento dos filtros interativos.                        | planejada|
 
 ---
 
 ## 📊 Critérios de Aceitação
+Acurácia e Confiabilidade dos Dados: 100% dos registros importados da PRF devem passar pela limpeza de dados (remoção de duplicatas, tratamento de campos nulos e padronização de tipos de veículos).
+Desempenho da Ferramenta: As interações no Power BI (filtros de UF, ano e tipo de veículo) devem responder em menos de 2 segundos.
+Filtro de Veículos Pesados: O dashboard deve permitir o isolamento claro das ocorrências envolvendo caminhões, carretas e tratores.
+Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo alternar facilmente entre a visão macro (Nacional) e micro (Trechos de BRs e Municípios).
 
 
 ---
