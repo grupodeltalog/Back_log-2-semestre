@@ -19,7 +19,9 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 
 ## 👥 Personas / Usuários-Alvo
 -OBSERVATÓRIO Nacional de Segurança Viária(ONSV) 
+
 -Objetivo Identificar trechos de rodovias (BRs) com alta sinistralidade para direcionar obras de manutenção e reforço de sinalização.
+
 -Dimensionar a quantidade de acidentes graves e Mapear rotas rodoviárias de alto risco 
 
 
