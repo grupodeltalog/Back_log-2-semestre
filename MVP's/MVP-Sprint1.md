@@ -1,31 +1,14 @@
 # 📌 MVP - [API 1 Logística]
 
 ## 🎯 Objetivo do MVP
-●	Qual problema resolve? A falta de uma ferramenta centralizada e acessível para a visualização dos dados do comércio exterior do Estado de São Paulo.
-
-●	Qual hipótese será validada? Se os indicadores de comércio exterior forem apresentados em um dashboard interativo, então será possível analisar e identificar se o desempenho do estado está em ascensão, estagnação ou declínio.
-
-●	Qual valor será entregue ao usuário final? Um dashboard interativo que permite analisar e comparar dados do comércio exterior, facilitando a compreensão dos indicadores logísticos e a tomada de decisão estratégica.
 
 ---
 
 ## 📝 Descrição da Solução
-Desenvolvimento de um dashboard no Power BI focado na análise macro e microeconômica do comércio exterior do Estado de São Paulo. A solução integra bases públicas de dados para transformar volumes de exportação/importação em inteligência visual.
-●	Principais funcionalidades: Visualização e comparação de dados de exportação e importação, análise por Unidades da Receita Federal (URFs), modais de transporte (marítimo, aéreo, rodoviário) e identificação dos principais países parceiros comerciais.
-
-●	Gráficos interativos e cartões de visualização: Gráficos de barras, linhas e pizza para análise temporal e por categoria de produtos. Cartões dinâmicos que exibem o volume acumulado e a quantidade de produtos movimentados por URF selecionada.
-
-●	Limitações conhecidas: Necessidade de inclusão de métricas detalhadas de valor por kg, valor FOB ($) e valor agregado dos produtos. Ajustes pendentes na padronização dos filtros do Power BI, especificamente na segmentação temporal contínua para o período de 2023 a 2025.
-
-●	Escopo reduzido: Foco estrito nas visualizações essenciais de volumes de movimentação, principais URFs de entrada/saída e principais parceiros comerciais.
-
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-●	Analista de Logística / Comércio Exterior: Necessita de dados consolidados para mapear rotas, gargalos de movimentação por URF e modais mais utilizados no estado.
-
-●	Gestor / Tomador de Decisão Pública ou Privada: Busca acompanhar a balança comercial do estado para definir estratégias de investimento, expansão ou incentivos fiscais
 
 ---
 
@@ -52,13 +35,6 @@ Desenvolvimento de um dashboard no Power BI focado na análise macro e microecon
 ---
 
 ## 📊 Critérios de Aceitação
-●	O dashboard deve carregar todas as visualizações em menos de 5 segundos ao aplicar filtros.
-
-●	Os dados exibidos nos cartões de KPI devem bater 100% com a soma dos registros filtrados na base de origem.
-
-●	O filtro temporal deve permitir a seleção individual de anos (2023, 2024, 2025) ou do período acumulado.
-
-●	Todas as URFs do Estado de São Paulo cadastradas na base devem constar no filtro de localização.
 
 
 ---
