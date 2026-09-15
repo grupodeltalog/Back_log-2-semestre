@@ -57,18 +57,31 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 ---
 
 ## 📈 Métricas de Avaliação
-| Backlog de Produto| Backlog de Sprint	| Alocação de Tarefas	| Documentação no GitHub| 	Apresentação (Review)	| Conformidade Técnica| Total | 
-|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-|
-||||||
-||||||||
----
+
+| Item de Avaliação | Descrição / Critério | Peso / Nota |
+| :--- | :--- | :---: |
+| **Product Backlog** | Histórias de usuário completas, priorizadas e estimadas com clareza. | 15% |
+| **Sprint Backlog** | Cumprimento do planejamento e divisão clara de tarefas entre os integrantes. | 15% |
+| **Burndown / Alocação de Horas** | Monitoramento e alocação correta da carga horária estimada x realizada. | 15% |
+| **Documentação no GitHub** | Repositório estruturado (README.md, scripts ETL, arquivo `.pbix` e relatórios). | 20% |
+| **GANTT / Organização do Tempo** | Cumprimento dos prazos de entrega acordados para as Sprints. | 10% |
+| **Conformidade Técnica** | Aplicação das melhores práticas de ETL, modelagem DAX e design de Dashboard. | 25% |
+| **Total** | **Avaliação Global da Solução** | **100%** |
 
 ## 🚀 Próximos Passos
+1.Conclusão da Pipeline de ETL:Tratamento e carga no Power Query.
+Finalizar o tratamento de inconsistências na base de dados da PRF utilizando Power Query/Python e estabelecer o modelo de dados dimensional (Star Schema).
+2.Construção de Medidas DAX:Métricas analíticas avançadas.
+Desenvolver as medidas DAX para cálculo de Média Nacional, Taxa de Severidade por Sinistro e Comparativo Percentual Ano contra Ano (YoY).
+3.Publicação do Repositório GitHub:Versionamento e documentação.
+Organizar o repositório público contendo a documentação do projeto, instruções de execução e os assets do Power BI.
+4.Validação com Usuários-Alvo:Revisão e refinamento.
+Realizar a homologação do dashboard com o grupo de tutores/professores do Projeto Integrador para coletar feedbacks e aplicar ajustes finos na Sprint 02.
 
 
 ## 📂 Anexos / Evidências
-- 
+- Fonte Primária dos Dados: Dados Abertos da PRF (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 
-- 
+- Ferramenta de BI: Microsoft Power BI Desktop
 
-- 
+- Documentação de Projeto: Repositório no GitHub (link do projeto)
