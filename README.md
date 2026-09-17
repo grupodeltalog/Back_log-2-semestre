@@ -27,13 +27,18 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo a criação de um dashboard de análise integrada da segurança viária brasileira com foco em sinistros com veículos pesados, visando atender as necessidades do Observatório Nacional de Segurança viária (ONSV).
 
+Habilidades desenvolvidas:
+
+* Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.);
+* Processo de desenvolvimento ágil; 
+* Caracterização do produto logístico;
+* Lógica de programação básica;
+* Lógica matemática;
+* Persistência de em BD relacional.
+
+* Tratamento 
 # Tecnologias Utilizadas
  
 * Google Colab
