@@ -1,7 +1,7 @@
-# 📌 MVP - [API 1 Logística]
+# 📌 MVP - [API 2 Logística]
 
 ## 🎯 Objetivo do MVP
-Desenvolver uma solução analítica interativa em Power BI fundamentada em dados abertos da Polícia Rodoviária Federal (PRF). O objetivo principal é subsidiar a tomada de decisão no setor público e logístico, permitindo a identificação de trechos críticos (blackspots) em rodovias federais (BRs), a análise comportamental de veículos pesados de carga e a avaliação do impacto da gravidade dos sinistros na infraestrutura e fluidez logística do país.
+Desenvolver uma solução analítica interativa em Power BI fundamentada em dados abertos da Polícia Rodoviária Federal (PRF), . O objetivo principal é subsidiar a tomada de decisão no setor público e logístico, permitindo a identificação de trechos críticos em rodovias federais (BRs), a análise comportamental de veículos pesados de carga e a avaliação do impacto da gravidade dos sinistros na infraestrutura e fluidez logística do país.
 
 ---
 
