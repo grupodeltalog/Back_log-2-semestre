@@ -1,2 +1,2 @@
-| what | why | where|when| Who | how | how much |
+| What | Why | Where | When | Who | How | How much |
 
