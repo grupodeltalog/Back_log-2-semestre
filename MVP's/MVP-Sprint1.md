@@ -69,6 +69,6 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 ## 📂 Anexos / Evidências
 - Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
 
-- 
+- [código](MVP's/onsv.ipynb.)
 
 - 
