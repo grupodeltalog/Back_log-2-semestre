@@ -70,3 +70,5 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 - Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
 
 - Dados tratados da PRF: https://github.com/grupodeltalog/Back_log-2-semestre/blob/60358e2ed849cb50b2ad49d2f831ca6dc6aaa97a/MVP's/PRF_dados_tratados.ipynb
+
+-5W2H:
