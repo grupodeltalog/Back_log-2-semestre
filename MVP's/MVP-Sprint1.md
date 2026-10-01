@@ -1,7 +1,7 @@
 # 📌 MVP - [API 2 Logística]
 
 ## 🎯 Objetivo do MVP
-Desenvolver uma solução analítica interativa em Power BI fundamentada em dados abertos da Polícia Rodoviária Federal (PRF), . O objetivo principal é subsidiar a tomada de decisão no setor público e logístico, permitindo a identificação de trechos críticos em rodovias federais (BRs), a análise comportamental de veículos pesados de carga e a avaliação do impacto da gravidade dos sinistros na infraestrutura e fluidez logística do país.
+Desenvolver uma solução analítica interativa em Power BI fundamentada em dados abertos da Polícia Rodoviária Federal (PRF). O objetivo principal é subsidiar a tomada de decisão no setor público e logístico, permitindo a identificação de trechos críticos em rodovias federais (BRs), a análise comportamental de veículos pesados de carga e a avaliação do impacto da gravidade dos sinistros na infraestrutura e fluidez logística do país.
 
 ---
 
@@ -69,6 +69,4 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 ## 📂 Anexos / Evidências
 - Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
 
-- [Dados_tratados](MVPs/PRF_dados_tratados.ipynb)
-
-- https://github.com/grupodeltalog/Back_log-2-semestre/blob/60358e2ed849cb50b2ad49d2f831ca6dc6aaa97a/MVP's/PRF_dados_tratados.ipynb
+- Dados tratados da PRF: https://github.com/grupodeltalog/Back_log-2-semestre/blob/60358e2ed849cb50b2ad49d2f831ca6dc6aaa97a/MVP's/PRF_dados_tratados.ipynb
