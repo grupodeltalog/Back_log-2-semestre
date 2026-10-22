@@ -1,6 +1,5 @@
  | What | Why | Where | When | Who | How | How much | Status |
  |------|-----|-------|------|-----|-----|----------|--------|
-|
 | pesquisa para Tradução da base de dados da DATASUS |os dados são fornecidos em forma numérica  | Laboratório da FATEC | |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
 | Tradução da base de dados da DATASUS | Para que o cliente entenda os dados | Laboratório da FATEC | |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
 | Tratamento da base de dados da DATASUS | Para que o cliente possua uma base sólida e padronizada | Laboratório da FATEC |  |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
