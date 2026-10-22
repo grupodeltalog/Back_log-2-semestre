@@ -1,5 +1,6 @@
  | What | Why | Where | When | Who | How | How much | Status |
  |------|-----|-------|------|-----|-----|----------|--------|
+ |relatorio|documentar os processos envolvidos e o passo a passo|Laboratório FATEC|22/10/2026|vagner|analisando o que foi feito|4 horas|ta fazendo|
 | Tratamento da base de dados da DATASUS | Para que o cliente possua uma base sólida e padronizada | Laboratório da FATEC |  |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
 | Tradução da base de dados da DATASUS | Para que o cliente entenda os dados | Laboratório da FATEC | |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
 |Roteirização do vídeo de entendimento do problema| Para guiar o Scrum Team na gravação do vídeo | Homework |  |  | Analisando os requisitos e necessidades do cliente para estrutura-lo corretamente |  | |
