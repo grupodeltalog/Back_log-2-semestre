@@ -28,11 +28,11 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 ## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  8   |            |      |     |   2    |
-|  9   |            |      |     |   2    |
-|  10  |            |      |     |   2    |
-|  11  |            |      |     |   2    |
-|  12  |            |      |     |   2    |
+|  8   |    Alta	  | Como gestor público, desejo a implementação da base e dados SIM do Departamento DATASUS, para uma análise real da letalidade das rodovias federais.     |  8 Horas   |   2    |
+|  9   |    Alta    | Como gestor público, desejo que a base de dados SIM esteja compatível com a base de dados da PRF, para evitar falsos positivos, perda de registros ou dados inutilizáveis.     | 8 Horas    |   2    |
+|  10  |    Média   | Como gestor público, desejo ver o real desfecho de acidentes nas rodovias, podendo abranger os óbitos tardios para corrigir a distorção estatística e mapear os reais fatores de risco que transformam sinistros em fatalidades.     | 5 Horas   |   2    |
+|  11  |   Média    | Como gestor público, desejo cruzar os dados de acidentes com o perfil socioeconômico das vítimas do DATASUS (Idade, Sexo e Escolaridade), para que eu possa identificar os públicos mais afetados e direcionar ações e projetos estratégicos de prevenção e intervenção de forma mais assertiva.     |   5 Horas  |   2    |
+|  12  |    Alta    | Como gestor público, desejo observar a relação de óbitos com a Classificação Brasileira de Ocupações, para que eu possa identificar quais categorias de trabalhadores são as maiores vítimas de sinistros.     | 6 Horas   |   2    |
 
 
 
