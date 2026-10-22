@@ -80,7 +80,7 @@ Habilidades desenvolvidas:
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2026 | a fazer | [MVP](MVP's/MVP-Sprint1.md)
-| 02                | 29/10/2026 | a fazer | [MVP]()  |
+| 02                | 29/10/2026 | a fazer | [MVP](MVP's/MVP-Sprint2.md)  |
 | 03                | 26/11/2026 | a fazer | [MVP]()  |
 | Feira de Soluções | 03/12/2026 | a fazer | [MVP]()  |
 
