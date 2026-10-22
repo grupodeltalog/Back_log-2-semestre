@@ -7,4 +7,4 @@
 | Edição do vídeo de entendimento do problema | Para deixar a gravação mais clara, coerente e fluida | Homework | |  | Utilizando ferramentas de edição como CapCut e Inshot | |  | 
 | Postagem do vídeo no Youtube | Para facilitar o acesso do cliente ao material do vídeo| Biblioteca da FATEC || | Fazendo upload do vídeo no canal do grupo no Youtube |  |  |
 | Criação do 5W2H | Para estruturação, análise e manejo dos trabalhos executados pelo Scrum Team | Laboratório da FATEC, Homework | 22/10/2026 | Todos | Reunindo todas as tarefas executadas pelo Scrum Team e as estruturando via Mark Down no GitHub | 3 horas |  |
-| Criação do dashboard | Para facilitar a visualização, análise e interpretação dos dados por meio de indicadores|  Laboratório da FATEC |27/10/2026| | Importação dos dados no Power BI, criação de gráficos, filtros de pesquisa e organização do dashboard|  | |
+| Criação do dashboard | Para facilitar a visualização, análise e interpretação dos dados por meio de indicadores|  Laboratório da FATEC |27/10/2026| | Importação dos dados no Power BI, criação de gráficos, filtros de pesquisa e organização do dashboard| kauã e (quem tiver aí) | |
