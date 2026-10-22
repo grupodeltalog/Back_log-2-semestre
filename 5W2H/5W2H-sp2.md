@@ -7,4 +7,4 @@
 |      |     |       |      |     |     |          |        |
 |      |     |       |      |     |     |          |        |
 |      |     |       |      |     |     |          |        |
-|      |     |       |      |     |     |          |        |
+|  Criação do 5W2H    |  Para estruturação, análise e manejo dos trabalhos executados pelo Time Scrum   |    Laboratório da FATEC, Trabalho de casa   |   22/10/2026   |  Todos   |  Reunindo todas as tarefas executadas pelo Scrum Team e estruturando via Mark Down no GitHub   |    3 horas      |    ConUG    |
