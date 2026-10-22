@@ -64,6 +64,11 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 
 ## 🚀 Próximos Passos
 
+- Desenvolver um módulo de comparação entre indicadores de população, frota de veículos e acidentes.
+
+- Criar rankings dinâmicos de estados e municípios com base no indicador selecionado.
+
+- Implementar análise da evolução histórica dos indicadores por período.
 
 ## 📂 Anexos / Evidências
 - Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
