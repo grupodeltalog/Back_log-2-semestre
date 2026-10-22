@@ -1,6 +1,6 @@
  | What | Why | Where | When | Who | How | How much | Status |
  |------|-----|-------|------|-----|-----|----------|--------|
-| pesquisa para Tradução da base de dados da DATASUS |os dados são fornecidos em forma numérica  | Laboratório da FATEC |14/10/2026| Kauã e Pedro | Tratando os dados com linguagem em Python executados pelo Google Colab | 4 horas  | concluido |
+| pesquisa para Tradução da base de dados da DATASUS |os dados são fornecidos em forma numérica  | Laboratório da FATEC |14/10/2026| Kauã e Pedro | Fazendo uma pesquisa sobre a base de dados do datasus usando os arquivos para tabulação| 4 horas  | concluido |
 | Tradução da base de dados da DATASUS | Para que o cliente entenda os dados | Laboratório da FATEC | |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |Em andamento  |
 | Tratamento da base de dados da DATASUS | Para que o cliente possua uma base sólida e padronizada | Laboratório da FATEC |  |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  | Em andamento |
 | Criação do 5W2H | Para estruturação, análise e manejo dos trabalhos executados pelo Scrum Team | Laboratório da FATEC, Homework | 22/10/2026 | Todos | Reunindo todas as tarefas executadas pelo Scrum Team e as estruturando via Mark Down no GitHub | 3 horas | Em andamento |
