@@ -1,7 +1,7 @@
  | What | Why | Where | When | Who | How | How much | Status |
  |------|-----|-------|------|-----|-----|----------|--------|
 |Roteirização do vídeo de entendimento do problema| Para guiar o Scrum Team na gravação do vídeo | Homework |  |  | Analisando os requisitos e necessidades do cliente para estrutura-lo corretamente |  | |
-| Gravação do vídeo | Para apresentação do Scrum Team e para o cliente analisar se suas necessidades estão sendo atendidas | Homework |  | Todos | Seguindo o roteiro criado anteriormente durante a gravação |  | Concluído |
+| Gravação do vídeo | Para apresentação do Scrum Team e para o cliente analisar se suas necessidades estão sendo atendidas | Homework |  | Todos | Seguindo o roteiro criado anteriormente durante a gravação |  | |
 | Edição do vídeo de entendimento do problema | Para deixar a gravação mais clara, coerente e fluida | Homework | |  | Utilizando ferramentas de edição como CapCut e Inshot | |  | 
 | Postagem do vídeo no Youtube | Para facilitar o acesso do cliente ao material do vídeo| Biblioteca da FATEC || | Fazendo upload do vídeo no canal do grupo no Youtube |  |  |
 | Tratamento da base de dados da DATASUS | Para que o cliente possua uma base sólida e padronizada | Laboratório da FATEC |  |  | Tratando os dados com linguagem em Python executados pelo Google Colab |  |  |
