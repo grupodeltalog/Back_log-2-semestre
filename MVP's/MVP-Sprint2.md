@@ -28,7 +28,7 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 ## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  8   |            |      |   2    |
+|  8   |            |      |     |   2    |
 |  9   |            |      |     |   2    |
 |  10  |            |      |     |   2    |
 |  11  |            |      |     |   2    |
