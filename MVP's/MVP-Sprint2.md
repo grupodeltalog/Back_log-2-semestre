@@ -1,26 +1,26 @@
 # 📌 MVP - [API 2 Logística]
 
 ## 🎯 Objetivo do MVP
-
+O objetivo do MVP é implementar e compatibilizar as bases de dados SIM/DATASUS e PRF, aprimorando a qualidade e a consistência das informações utilizadas na análise dos óbitos. Busca-se validar a possibilidade de relacionar os registros das duas bases. Com isso, pretende-se entregar ao usuário final uma base de dados mais completa e confiável, capaz de ampliar a compreensão sobre as vítimas e os fatores associados à mortalidade.
 
 ---
 
 ## 📝 Descrição da Solução
-A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelligence) que realiza a extração, tratamento e modelagem dos dados brutos de acidentes da PRF. Os dados processados alimentam um dashboard interativo estruturado com as seguintes camadas:
+A solução prevê a identificação de possíveis óbitos tardios relacionados aos registros de acidentes, permitindo uma análise mais precisa dos desfechos. Também contempla a verificação e utilização de informações sobre idade, sexo e escolaridade das vítimas, além da associação dos registros de óbitos à Classificação Brasileira de Ocupações (CBO). Essas informações serão disponibilizadas por meio de filtros de pesquisa e seleção no Microsoft Power BI, permitindo explorar os dados de forma interativa, analisar o perfil das vítimas e identificar os grupos profissionais potencialmente mais afetados.
 
--Camada de Visão Geral: Métricas consolidadas (KPIs) de ocorrências, vítimas, severidade e distribuição geográfica por Unidade Federativa (UF).
+Dentre as limitações conhecidas, a base de dados do Sistema de Informações sobre Mortalidade (SIM), disponibilizada pelo DATASUS, apresenta diversas informações em formato de códigos, o que dificulta a identificação direta de seus significados. Para interpretar esses dados, é necessário utilizar o arquivo de conversão TABDO, disponibilizado pelo próprio DATASUS, e realizar o processamento no Google Colab, por meio de Python, para converter os códigos em descrições textuais compreensíveis e permitir sua utilização nas análises.
 
--Camada de Análise Setorial/Logística: Filtros dinâmicos voltados à frota pesada (caminhões, carretas, reboques) para isolar o impacto do transporte de cargas na segurança viária.
-
--Camada de Tendências: Gráficos comparativos entre o desempenho de estados específicos versus a média nacional, facilitando o diagnóstico preventivo e a alocação de recursos em infraestrutura e sinalização.
+O escopo essencial desta etapa consiste na implementação da base de dados do SIM/DATASUS e na análise das informações disponibilizadas, validando sua utilização e integração com os dados da PRF. Essa entrega permitirá verificar a viabilidade de utilizar os dados de mortalidade nas análises.
 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
--OBSERVATÓRIO Nacional de Segurança Viária(ONSV) 
+- Pessoa 1: Analista do ONSV (Observatório Nacional de Segurança Viária)
 
--Objetivo: Identificar trechos de rodovias (BRs) com alta sinistralidade para direcionar obras de manutenção e reforço de sinalização e dimensionar a quantidade de acidentes graves e Mapear rotas rodoviárias de alto risco 
+Profissional que utiliza dados de acidentes e mortalidade para analisar indicadores e identificar padrões relacionados aos óbitos no trânsito. Necessita de informações confiáveis e integradas para compreender melhor os fatores associados à mortalidade. A solução busca atender a essa necessidade por meio da consulta e análise interativa das informações no dashboard em Power BI.
+
+ 
 
 
 ---
@@ -41,16 +41,14 @@ A solução consiste em uma Pipeline de Inteligência de Dados (Business Intelli
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Extração e tratamento da base da PRF; Modelagem dimensional no Power BI; Criação dos cartões de KPI gerais de sinistros/gravidade e visualização inicial por UF/BR.                   | Em andamento  |
-| 02     | Implementação de gráficos por tipo de veículo/modal de carga; Análise comparativa (Média Nacional x Estadual); Refinamento de filtros interativos, menu de navegação e testes de usabilidade. | planejada|
+| 01     |Extração e tratamento dos dados da PRF, visualizações nacionais e estaduais, filtros por tipo de veículo, ano e gravidade, indicadores por trechos rodoviários e gráficos comparativos no dashboard em Power BI.                   | Concluído  |
+| 02     | Implementação da base SIM/DATASUS, compatibilização com os dados da PRF e preparação das informações para análise dos óbitos, perfil das vítimas e ocupações profissionais. | em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-Acurácia e Confiabilidade dos Dados: 100% dos registros importados da PRF devem passar pela limpeza de dados (remoção de duplicatas, tratamento de campos nulos e padronização de tipos de veículos).
-Desempenho da Ferramenta: As interações no Power BI (filtros de UF, ano e tipo de veículo) devem responder.
-Filtro de Veículos Pesados: O dashboard deve permitir o isolamento claro das ocorrências envolvendo caminhões, carretas e tratores.
-Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo alternar facilmente entre a visão macro (Nacional) e micro (Trechos de BRs e Municípios).
+- O MVP deve permitir que o usuário consulte, compare os dados de mortalidade do SIM/DATASUS relacionados aos registros da PRF, por meio dos filtros de pesquisa e múltipla seleção, gráficos e com base nos indicadores apresentados apoiar na análise dos óbitos.
+- Métricas coletadas: tempo de carregamento para visualizados do dados e facilidade no uso do filtros.
 
 
 ---
