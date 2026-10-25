@@ -69,7 +69,7 @@ Profissional que utiliza dados de acidentes e mortalidade para analisar indicado
 - Implementar análise da evolução histórica dos indicadores por período.
 
 ## 📂 Anexos / Evidências
-- Link do vídeo do entendimento do problema: 
+- Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
 
 - Dados tratados da DATASUS: 
 
