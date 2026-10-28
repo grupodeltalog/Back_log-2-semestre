@@ -67,7 +67,9 @@ Navegação Intuitiva: Telas interligadas via menu de navegação, permitindo al
 
 
 ## 📂 Anexos / Evidências
-- Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
+- Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE
+
+- Link do Dashboard Power BI: https://drive.google.com/drive/folders/1eg_NW3MExLLYCO18ubqHkxAzJPaishkw?hl=pt-br
 
 - Dados tratados da PRF:https://github.com/grupodeltalog/Back_log-2-semestre/blob/2e3217a8b4b4b512704b73fc2657233878196f7b/Cod%C3%ADgos%20(a%20adicionar)/PRF.ipynb
 
