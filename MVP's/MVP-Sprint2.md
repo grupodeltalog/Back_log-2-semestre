@@ -71,7 +71,7 @@ Profissional que utiliza dados de acidentes e mortalidade para analisar indicado
 ## 📂 Anexos / Evidências
 - Link do vídeo do entendimento do problema: https://www.youtube.com/watch?v=MenvduKqBEE 
 
-- Dados tratados da DATASUS: 
+- Dados tratados do DATASUS: 
 
 - 5W2H: https://github.com/grupodeltalog/Back_log-2-semestre/blob/main/5W2H/5W2Hsp2.md 
 
