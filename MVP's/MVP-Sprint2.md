@@ -76,3 +76,5 @@ Profissional que utiliza dados de acidentes e mortalidade para analisar indicado
 - 5W2H: https://github.com/grupodeltalog/Back_log-2-semestre/blob/main/5W2H/5W2Hsp2.md 
 
 - Relatório: https://drive.google.com/file/d/1-C0sRhF4d6cmaRoIOqxp7MwkbmwQNZ_q/view?usp=sharing
+
+- PACER: https://docs.google.com/spreadsheets/d/1P2FxDPNPy_BsWg1gSsXaKRPlLtl8_I9I/edit?usp=sharing&ouid=103753575522199552511&rtpof=true&sd=true
