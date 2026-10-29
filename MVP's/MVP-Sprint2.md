@@ -72,7 +72,7 @@ Profissional que utiliza dados de acidentes e mortalidade para analisar indicado
 
 - Dados tratados do DATASUS:
 
-- Dashboard Power BI: 
+- Dashboard Power BI:  https://app.powerbi.com/view?r=eyJrIjoiZWNjNTlmODAtZGMyOC00NDkxLWIwMTItZmViNjAwN2Y0ZWNlIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=ReportSection4951966d20a8447e69c5
 
 - 5W2H: https://github.com/grupodeltalog/Back_log-2-semestre/blob/main/5W2H/5W2Hsp2.md 
 
