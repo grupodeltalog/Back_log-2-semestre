@@ -1,8 +1,7 @@
 # 📌 MVP - [API 2 Logística]
 
 ## 🎯 Objetivo do MVP
-O objetivo do MVP é implementar e compatibilizar as bases de dados SIM/DATASUS e PRF, aprimorando a qualidade e a consistência das informações utilizadas na análise dos óbitos. Busca-se validar a possibilidade de relacionar os registros das duas bases. Com isso, pretende-se entregar ao usuário final uma base de dados mais completa e confiável, capaz de ampliar a compreensão sobre as vítimas e os fatores associados à mortalidade.
-
+O objetivo do MVP é implementar as bases de dados 
 ---
 
 ## 📝 Descrição da Solução
