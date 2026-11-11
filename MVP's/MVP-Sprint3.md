@@ -2,6 +2,7 @@
 
 ## 🎯 Objetivo do MVP
 O objetivo do MVP é integrar e compatibilizar as bases de dados populacionais do IBGE e de frotas da SENATRAN, ampliando as informações utilizadas na análise da segurança viária. Busca-se validar a utilização desses dados na composição de indicadores de letalidade e sinistralidade. Com isso, pretende-se entregar ao usuário final uma base de dados mais completa e estruturada, capaz de possibilitar análises regionais, comparações e identificação de cenários de maior risco.
+
 ---
 
 ## 📝 Descrição da Solução
