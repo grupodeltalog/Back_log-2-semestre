@@ -27,11 +27,11 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 ## 🔑 User Stories (Backlog do MVP)
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  8   |    Alta	  | Como gestor público, desejo a implementação da base e dados SIM do Departamento DATASUS, para uma análise real da letalidade das rodovias federais.     |  8 Horas   |   2    |
-|  9   |    Alta    | Como gestor público, desejo que a base de dados SIM esteja compatível com a base de dados da PRF, para evitar falsos positivos, perda de registros ou dados inutilizáveis.     | 8 Horas    |   2    |
-|  10  |    Média   | Como gestor público, desejo ver o real desfecho de acidentes nas rodovias, podendo abranger os óbitos tardios para corrigir a distorção estatística e mapear os reais fatores de risco que transformam sinistros em fatalidades.     | 5 Horas   |   2    |
-|  11  |   Média    | Como gestor público, desejo cruzar os dados de acidentes com o perfil socioeconômico das vítimas do DATASUS (Idade, Sexo e Escolaridade), para que eu possa identificar os públicos mais afetados e direcionar ações e projetos estratégicos de prevenção e intervenção de forma mais assertiva.     |   5 Horas  |   2    |
-|  12  |    Alta    | Como gestor público, desejo observar a relação de óbitos com a Classificação Brasileira de Ocupações, para que eu possa identificar quais categorias de trabalhadores são as maiores vítimas de sinistros.     | 6 Horas   |   2    |
+| 13 | Alta | Como gestor público, desejo a implementação da base de dados populacional do IBGE e de frotas da SENATRAN, para que o histórico de habitantes e veículos fique disponível para análise e cruzamento de dados. |  6 Horas | 3 |
+| 14 | Alta | Como um gestor público, desejo observar os indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos, Para que eu possa avaliar de forma justa o perigo real desse segmento, sem que o tamanho da população ou frota mascare os índices de risco. | 6 Horas | 3 |
+| 15 | Alta | Como gestor público, desejo a implementação de um filtro interativo por regiões do país (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) no painel, para que eu consiga segmentar e analisar o comportamento dos dados de forma geográfica e direcionada. | 4 Horas | 3 |
+| 16 | Média | Como gestor público, desejo a implementação de painéis de rankings comparativos baseados em múltiplos critérios de severidade e exposição ao risco, para que eu consiga identificar e classificar com rapidez quais localidades, frotas, entre outros apresentam os cenários mais críticos. | 3 Horas | 3 |
+| 17 | Alta | Como gestor público, desejo a homologação e a entrega da versão final do painel com 100% das bases de dados totalmente integradas e validadas, para que eu possa acessar uma plataforma única e consolidada com todas as informações de segurança viária citadas anteriormente. | 8 Horas | 3 |
 
 
 
