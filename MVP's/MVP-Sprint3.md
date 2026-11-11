@@ -40,14 +40,14 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |Extração e tratamento dos dados da PRF, visualizações nacionais e estaduais, filtros por tipo de veículo, ano e gravidade, indicadores por trechos rodoviários e gráficos comparativos no dashboard em Power BI.                   | Concluído  |
-| 02     | Implementação da base SIM/DATASUS, compatibilização com os dados da PRF e preparação das informações para análise dos óbitos, perfil das vítimas e ocupações profissionais. | em andamento |
+| 02     | Implementação da base de dados SIM/DATASUS para análise da letalidade das rodovias federais.                   | Concluído  |
+| 02     | Integração dos dados populacionais do IBGE e de frotas da SENATRAN, possibilitando a análise de indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos. | em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário consulte, compare os dados de mortalidade do SIM/DATASUS relacionados aos registros da PRF, por meio dos filtros de pesquisa e múltipla seleção, gráficos e com base nos indicadores apresentados apoiar na análise dos óbitos.
-- Métricas coletadas: tempo de carregamento para visualizados do dados e facilidade no uso do filtros.
+- O MVP deve permitir que o usuário consulte e analise os dados de população e frota por meio de gráficos, utilizando filtros de pesquisa e seleção.
+- Métricas coletadas: tempo de carregamento para visualização dos dados e facilidade de uso dos filtros.
 
 
 ---
@@ -61,11 +61,11 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 
 ## 🚀 Próximos Passos
 
-- Desenvolver um módulo de comparação entre indicadores de população, frota de veículos e acidentes.
+- 
 
-- Criar rankings dinâmicos de estados e municípios com base no indicador selecionado.
+- 
 
-- Implementar análise da evolução histórica dos indicadores por período.
+- 
 
 ## 📂 Anexos / Evidências 
 
