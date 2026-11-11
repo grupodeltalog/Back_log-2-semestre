@@ -1,15 +1,15 @@
 # 📌 MVP - [API 2 Logística]
 
 ## 🎯 Objetivo do MVP
-O objetivo do MVP é implementar as bases de dados 
+O objetivo do MVP é integrar e compatibilizar as bases de dados populacionais do IBGE e de frotas da SENATRAN, ampliando as informações utilizadas na análise da segurança viária. Busca-se validar a utilização desses dados na composição de indicadores de letalidade e sinistralidade. Com isso, pretende-se entregar ao usuário final uma base de dados mais completa e estruturada, capaz de possibilitar análises regionais, comparações e identificação de cenários de maior risco.
 ---
 
 ## 📝 Descrição da Solução
-A solução prevê a identificação de possíveis óbitos tardios relacionados aos registros de acidentes, permitindo uma análise mais precisa dos desfechos. Também contempla a verificação e utilização de informações sobre idade, sexo das vítimas. Essas informações serão disponibilizadas por meio de filtros de pesquisa e seleção no dashboard pelo Microsoft Power BI, permitindo explorar os dados de forma interativa, analisar o perfil das vítimas e identificar os grupos profissionais potencialmente mais afetados.
+Funcionalidades principais incluídas: Integração dos dados populacionais do IBGE e de frotas da SENATRAN ao dashboard, implementação dos gráficos de indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos, filtros de pesquisa e múltipla seleção por regiões do país, gráficos em rankings comparativos e consolidação da versão final do dashboard.
 
-Dentre as limitações conhecidas, a base de dados do Sistema de Informações sobre Mortalidade (SIM), disponibilizada pelo DATASUS, apresenta diversas informações em formato de códigos, o que dificulta a identificação direta de seus significados. Para interpretar esses dados, é necessário utilizar o arquivo de conversão TABDO, disponibilizado pelo próprio DATASUS, e realizar o processamento no Google Colab, por meio de Python, para converter os códigos em descrições textuais compreensíveis e permitir sua utilização nas análises.
+Limitações conhecidas: Não foram identificadas limitações conhecidas até o momento.
 
-O escopo essencial desta etapa consiste na implementação da base de dados do SIM/DATASUS e na análise das informações disponibilizadas, validando sua utilização e integração com os dados da PRF. Essa entrega permitirá verificar a viabilidade de utilizar os dados de mortalidade nas análises.
+Escopo reduzido: O escopo concentra-se na integração das bases de população e frota e na implementação dos indicadores, filtros e rankings essenciais para ampliar as análises de segurança viária e validar a solução proposta.
 
 
 ---
@@ -17,7 +17,7 @@ O escopo essencial desta etapa consiste na implementação da base de dados do S
 ## 👥 Personas / Usuários-Alvo
 - Pessoa 1: Analista do ONSV (Observatório Nacional de Segurança Viária)
 
-Profissional que utiliza dados de acidentes e mortalidade para analisar indicadores e identificar padrões relacionados aos óbitos no trânsito. Necessita de informações confiáveis e integradas para compreender melhor os fatores associados à mortalidade. A solução busca atender a essa necessidade por meio da consulta e análise interativa das informações no dashboard em Power BI.
+Profissional que utiliza dados de segurança viária para analisar indicadores, comparar regiões e identificar cenários de risco relacionados aos veículos pesados. Necessita de informações populacionais, de frota e de sinistros integradas para realizar análises mais contextualizadas. A solução busca atender a essa necessidade por meio da consulta e análise interativa dos indicadores, filtros regionais e rankings comparativos no dashboard em Power BI.
 
  
 
