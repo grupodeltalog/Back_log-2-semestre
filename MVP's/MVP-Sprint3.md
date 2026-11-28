@@ -63,7 +63,7 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 ## 🚀 Próximos Passos
 
 - Apresentação do Grupo Delta Log na Feira de Soluções
-
+---
 ## 📂 Anexos / Evidências 
 
   
