@@ -85,4 +85,4 @@ https://github.com/grupodeltalog/Back_log-2-semestre/tree/f0014feab7726db6eea06d
 
 - PACER: https://docs.google.com/spreadsheets/d/1Gi-BaevWeg73qXPT1LPcWlsZiBDYiV2p/edit?usp=sharing&ouid=105842456118298743449&rtpof=true&sd=true
 
-- Link do vídeo: 
+- Link do vídeo: https://youtu.be/peKuF8CC2OI?feature=shared
