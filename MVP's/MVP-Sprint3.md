@@ -71,11 +71,11 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 ## 📂 Anexos / Evidências 
 
   
-- Dashboard Power BI: https://app.powerbi.com/view?r=eyJrIjoiZjExMzFiZGEtNDAxMS00ZGEyLTgzMDItYzhjZmU4NGIwODMzIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9 
+- Dashboard Power BI: https://app.powerbi.com/view?r=eyJrIjoiZjExMzFiZGEtNDAxMS00ZGEyLTgzMDItYzhjZmU4NGIwODMzIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
+- Dados tratados do IBGE: https://colab.research.google.com/drive/1qzWZAjDUEYQg1Rix0JgsPGPsPPgC76fn#scrollTo=5FgJtfRjAO9i
   
 - Dados tratados do SENATRAN: https://colab.research.google.com/drive/13Yr4htVbI6t6_cp_LkyEo2RrPYnWZL7k?usp=sharing
-
-- Dados tratados do IBGE: 
 
 - Dados tratados do DATASUS:
 https://github.com/grupodeltalog/Back_log-2-semestre/tree/9d1ffc5c02792e2ccc746cdab88ec83d5bd544a3/Cod%C3%ADgos%20(a%20adicionar)
