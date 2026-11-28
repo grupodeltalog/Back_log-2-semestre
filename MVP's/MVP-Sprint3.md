@@ -79,4 +79,4 @@ https://github.com/grupodeltalog/Back_log-2-semestre/tree/9d1ffc5c02792e2ccc746c
 
 - Relatório: https://drive.google.com/file/d/1UwGsq9PqrM9BnNIPhhSs2NbhObj3GmXL/view?usp=sharing
 
-- PACER: https://docs.google.com/spreadsheets/d/1P2FxDPNPy_BsWg1gSsXaKRPlLtl8_I9I/edit?usp=sharing&ouid=103753575522199552511&rtpof=true&sd=true
+- PACER: https://docs.google.com/spreadsheets/d/1Gi-BaevWeg73qXPT1LPcWlsZiBDYiV2p/edit?usp=sharing&ouid=105842456118298743449&rtpof=true&sd=true 
