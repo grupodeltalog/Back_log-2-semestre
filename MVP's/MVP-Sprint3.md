@@ -83,4 +83,6 @@ https://github.com/grupodeltalog/Back_log-2-semestre/tree/f0014feab7726db6eea06d
 - Manual de uso dos códigos:
   https://github.com/grupodeltalog/Back_log-2-semestre/blob/8bf3a30c2dbe61edd78a721b2f82c078d2d91afc/Cod%C3%ADgos%20(a%20adicionar)/Manual%20de%20Uso%20e%20Valida%C3%A7%C3%A3o%20-%20PRF%20e%20DATASUS%20(Grupo%20Delta%20Log).pdf
 
-- PACER: https://docs.google.com/spreadsheets/d/1Gi-BaevWeg73qXPT1LPcWlsZiBDYiV2p/edit?usp=sharing&ouid=105842456118298743449&rtpof=true&sd=true 
+- PACER: https://docs.google.com/spreadsheets/d/1Gi-BaevWeg73qXPT1LPcWlsZiBDYiV2p/edit?usp=sharing&ouid=105842456118298743449&rtpof=true&sd=true
+
+- Link do vídeo: 
