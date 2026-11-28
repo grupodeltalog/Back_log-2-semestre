@@ -8,7 +8,7 @@ O objetivo do MVP é integrar e compatibilizar as bases de dados populacionais d
 ## 📝 Descrição da Solução
 Funcionalidades principais incluídas: Integração dos dados populacionais do IBGE e de frotas da SENATRAN ao dashboard, implementação dos gráficos de indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos, filtros de pesquisa e múltipla seleção por regiões do país, gráficos em rankings comparativos e consolidação da versão final do dashboard.
 
-Limitações conhecidas: Não foram identificadas limitações conhecidas até o momento.
+Limitações conhecidas: Planilhas das estimativas da população do ano de 2022 e 2023 não estão publicadas na mesma seção de download das estimativas da população dos anos de (2015-2021) e (2024-2025).
 
 Escopo reduzido: O escopo concentra-se na integração das bases de população e frota e na implementação dos indicadores, filtros e rankings essenciais para ampliar as análises de segurança viária e validar a solução proposta.
 
