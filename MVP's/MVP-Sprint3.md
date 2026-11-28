@@ -67,7 +67,7 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 ## 📂 Anexos / Evidências 
 
   
-- Dashboard Power BI: https://app.powerbi.com/view?r=eyJrIjoiZjExMzFiZGEtNDAxMS00ZGEyLTgzMDItYzhjZmU4NGIwODMzIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+- Dashboard Power BI: https://app.powerbi.com/view?r=eyJrIjoiZjExMzFiZGEtNDAxMS00ZGEyLTgzMDItYzhjZmU4NGIwODMzIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=0a622c10e60143e0d454
 
 - Dados tratados do IBGE: https://colab.research.google.com/drive/1qzWZAjDUEYQg1Rix0JgsPGPsPPgC76fn#scrollTo=5FgJtfRjAO9i
   
