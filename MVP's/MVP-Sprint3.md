@@ -42,7 +42,7 @@ Profissional que utiliza dados de segurança viária para analisar indicadores, 
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 02     | Implementação da base de dados SIM/DATASUS para análise da letalidade das rodovias federais.                   | Concluído  |
-| 02     | Integração dos dados populacionais do IBGE e de frotas da SENATRAN, possibilitando a análise de indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos. | em andamento |
+| 02     | Integração dos dados populacionais do IBGE e de frotas da SENATRAN, possibilitando a análise de indicadores de letalidade por 100 mil habitantes e sinistralidade por 10 mil veículos. | Concluído |
 
 ---
 
