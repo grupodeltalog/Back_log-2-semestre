@@ -75,7 +75,7 @@ https://github.com/grupodeltalog/Back_log-2-semestre/tree/9d1ffc5c02792e2ccc746c
   
 - Dashboard Power BI:  https://app.powerbi.com/view?r=eyJrIjoiZWNjNTlmODAtZGMyOC00NDkxLWIwMTItZmViNjAwN2Y0ZWNlIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=ReportSection4951966d20a8447e69c5
   
-- Dados tratados do SENATRAN: https://docs.google.com/spreadsheets/d/1Gi-BaevWeg73qXPT1LPcWlsZiBDYiV2p/edit?usp=sharing&ouid=105842456118298743449&rtpof=true&sd=true 
+- Dados tratados do SENATRAN: https://colab.research.google.com/drive/13Yr4htVbI6t6_cp_LkyEo2RrPYnWZL7k?usp=sharing  
 
 - 5W2H: https://github.com/grupodeltalog/Back_log-2-semestre/blob/main/5W2H/5W2Hsp2.md 
 
